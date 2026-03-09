@@ -7,10 +7,11 @@ impactados por la Arquitectura Empresarial.
 
 ## Información del Proyecto
 
-- Nombre del proyecto:
-- Organización:
-- Fecha:
-- Autor(es):
+- Nombre del proyecto: FinData
+- Organización: CECAR
+- Descripcion: FinTech(Finanzas Tecnologia) de micorcreditos
+- Fecha: 2026
+- Autor(es): Jhon Mendez
 
 ## Core Enterprise Units
 
